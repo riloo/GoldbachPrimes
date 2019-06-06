@@ -1,0 +1,7 @@
+C:\Users\RLU\Documents\Visual Studio 2017\Projects\GoldbachPrimes\GoldbachPrimes\bin\Debug\GoldbachPrimes.exe.config
+C:\Users\RLU\Documents\Visual Studio 2017\Projects\GoldbachPrimes\GoldbachPrimes\bin\Debug\GoldbachPrimes.exe
+C:\Users\RLU\Documents\Visual Studio 2017\Projects\GoldbachPrimes\GoldbachPrimes\bin\Debug\GoldbachPrimes.pdb
+C:\Users\RLU\Documents\Visual Studio 2017\Projects\GoldbachPrimes\GoldbachPrimes\obj\Debug\GoldbachPrimes.csprojAssemblyReference.cache
+C:\Users\RLU\Documents\Visual Studio 2017\Projects\GoldbachPrimes\GoldbachPrimes\obj\Debug\GoldbachPrimes.csproj.CoreCompileInputs.cache
+C:\Users\RLU\Documents\Visual Studio 2017\Projects\GoldbachPrimes\GoldbachPrimes\obj\Debug\GoldbachPrimes.exe
+C:\Users\RLU\Documents\Visual Studio 2017\Projects\GoldbachPrimes\GoldbachPrimes\obj\Debug\GoldbachPrimes.pdb
